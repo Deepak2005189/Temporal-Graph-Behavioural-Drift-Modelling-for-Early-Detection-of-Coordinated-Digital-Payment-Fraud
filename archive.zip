@@ -1,0 +1,6 @@
+This script demonstrates a simple and efficient way to programmatically download the Elliptic dataset from Kaggle using the 
+`kagglehub` library. It ensures that the latest version of the dataset is retrieved and provides the local file path 
+for immediate use in data analysis or machine learning workflows.The approach is clean and reproducible, making it particularly 
+useful for projects involving blockchain analytics, fraud detection, or financial transaction modeling. Automating dataset access 
+in this manner helps streamline the data pipeline and improves project scalability. Overall, this is a well-structured starting point for 
+integrating external datasets into a Python-based data science environment.
